@@ -1,0 +1,22 @@
+body {
+    background-image: url(https://klike.net/uploads/posts/2022-12/1670215115_4-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+#game {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: #06559a;
+}
+
+.backspace {
+    width: 50px;
+}
